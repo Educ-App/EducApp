@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/EducApp/static/css/main.ee4dda2f.chunk.css",
-    "main.js": "/EducApp/static/js/main.4e2a475b.chunk.js",
-    "main.js.map": "/EducApp/static/js/main.4e2a475b.chunk.js.map",
+    "main.js": "/EducApp/static/js/main.5b406654.chunk.js",
+    "main.js.map": "/EducApp/static/js/main.5b406654.chunk.js.map",
     "runtime-main.js": "/EducApp/static/js/runtime-main.e5b668c6.js",
     "runtime-main.js.map": "/EducApp/static/js/runtime-main.e5b668c6.js.map",
     "static/css/2.61b4cb56.chunk.css": "/EducApp/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.4d51acfb.chunk.js": "/EducApp/static/js/2.4d51acfb.chunk.js",
-    "static/js/2.4d51acfb.chunk.js.map": "/EducApp/static/js/2.4d51acfb.chunk.js.map",
+    "static/js/2.50bd2238.chunk.js": "/EducApp/static/js/2.50bd2238.chunk.js",
+    "static/js/2.50bd2238.chunk.js.map": "/EducApp/static/js/2.50bd2238.chunk.js.map",
     "index.html": "/EducApp/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/EducApp/static/css/2.61b4cb56.chunk.css.map",
     "static/css/main.ee4dda2f.chunk.css.map": "/EducApp/static/css/main.ee4dda2f.chunk.css.map",
-    "static/js/2.4d51acfb.chunk.js.LICENSE.txt": "/EducApp/static/js/2.4d51acfb.chunk.js.LICENSE.txt"
+    "static/js/2.50bd2238.chunk.js.LICENSE.txt": "/EducApp/static/js/2.50bd2238.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e5b668c6.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.4d51acfb.chunk.js",
+    "static/js/2.50bd2238.chunk.js",
     "static/css/main.ee4dda2f.chunk.css",
-    "static/js/main.4e2a475b.chunk.js"
+    "static/js/main.5b406654.chunk.js"
   ]
 }
